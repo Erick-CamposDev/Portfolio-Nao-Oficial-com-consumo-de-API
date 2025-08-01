@@ -37,7 +37,8 @@ O repositório original utilizado como base é da [DIO](https://github.com/digit
 
 ## 📎 Deploy
 
-[Link]()
+[Link](https://github.com/Erick-CamposDev/Portfolio-Nao-Oficial-com-consumo-de-API.git)
+
 ---
 
 Este projeto foi essencial para solidificar meu conhecimento em **consumo de APIs** e **lógica assíncrona** no JavaScript. 🚀
