@@ -13,6 +13,22 @@
     flex-direction: column;
     justify-content: flex-start;
     margin: 1rem 0;
+    gap: 0.75rem;
+}
+
+.portfolio li a{
+    transition: all 0.4s;
+}
+
+.portfolio li .certificate{
+    width: 75px;
+}
+
+.portfolio li a:hover{
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+
 }
 
 .portfolio li h3 {
