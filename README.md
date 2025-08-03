@@ -37,7 +37,7 @@ O repositório original utilizado como base é da [DIO](https://github.com/digit
 
 ## 📎 Deploy
 
-[Link](https://github.com/Erick-CamposDev/Portfolio-Nao-Oficial-com-consumo-de-API.git)
+[Link](https://erick-camposdev.github.io/Portfolio-Nao-Oficial-com-consumo-de-API/)
 
 ---
 
